@@ -1,2 +1,2 @@
-# DACON
-DACON 대회 참여일지
+# DACON & Kaggle
+DACON & Kaggle 대회 기록
